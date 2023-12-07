@@ -1,3 +1,5 @@
 Pygments==2.5.2
 Sphinx==1.8.5
 sphinxcontrib-httpdomain==1.7.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
