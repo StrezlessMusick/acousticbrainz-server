@@ -14,7 +14,7 @@
         "format:ci": "eslint ./webserver/static/scripts --ignore-path .gitignore --ext .js,.jsx"
     },
     "dependencies": {
-        "bootstrap": "3.4.1",
+        "bootstrap": "4.0.0",
         "css-loader": "^3.5.2",
         "core-js": "^3.9.1",
         "highcharts": "^8.0.4",
