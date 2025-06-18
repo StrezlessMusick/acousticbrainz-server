@@ -27,7 +27,7 @@
         "react-dom": "^16.13.1",
         "style-loader": "^1.1.4",
         "terser": "^4.6.11",
-        "webpack": "^4.43.0",
+        "webpack": "^5.1.1",
         "webpack-cli": "^3.2.1"
     },
     "devDependencies": {
